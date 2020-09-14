@@ -5,7 +5,7 @@ retains the same functionality as writecrow's graphical Corpus Text
 Processor.
 
 Much of the code retained in the source was taken or derived from the
-writecrow repository on github.
+[writecrow](https://github.com/writecrow/corpus_text_processor) repository on github.
 
 A command-line version called 'ctp' exists that replaces the
 functionality of the original "Corpus Text Processor" GUI program.
