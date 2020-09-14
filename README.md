@@ -25,6 +25,4 @@ python setup.py install --user
 ctp --help
 ```
 
-Tested on Ubuntu 18.04 and above.
-
-(TODO: test on Mac OS X using python3 installed via homebrew).
+Tested on Ubuntu 18.04 and above, and on Mac OSX using python3 from Homebrew.
